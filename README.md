@@ -1,2 +1,3 @@
 # MyRepository
-Create for practice gitbash
+Created for practice gitbash
+
